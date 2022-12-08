@@ -1,8 +1,8 @@
 package validation
 
 import (
-	"golang-api-boilerplate/app/model"
-	"golang-api-boilerplate/exception"
+	"wellpict-be/app/model"
+	"wellpict-be/exception"
 
 	validation "github.com/go-ozzo/ozzo-validation/v4"
 	"github.com/go-ozzo/ozzo-validation/v4/is"

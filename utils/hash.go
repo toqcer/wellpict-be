@@ -2,7 +2,7 @@ package utils
 
 import (
 	"bytes"
-	"golang-api-boilerplate/exception"
+	"wellpict-be/exception"
 
 	"golang.org/x/crypto/bcrypt"
 )

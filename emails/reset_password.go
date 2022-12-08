@@ -2,7 +2,7 @@ package emails
 
 import (
 	"fmt"
-	"golang-api-boilerplate/utils"
+	"wellpict-be/utils"
 )
 
 func GenerateResetPasswordEmail(link string) utils.MailMessage {

@@ -1,10 +1,10 @@
 package service
 
 import (
-	"golang-api-boilerplate/app/entity"
-	"golang-api-boilerplate/app/model"
-	"golang-api-boilerplate/app/repository"
-	"golang-api-boilerplate/app/validation"
+	"wellpict-be/app/entity"
+	"wellpict-be/app/model"
+	"wellpict-be/app/repository"
+	"wellpict-be/app/validation"
 )
 
 type AdminService struct {

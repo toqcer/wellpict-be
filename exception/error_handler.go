@@ -1,7 +1,7 @@
 package exception
 
 import (
-	"golang-api-boilerplate/app/model"
+	"wellpict-be/app/model"
 
 	"github.com/gofiber/fiber/v2"
 )

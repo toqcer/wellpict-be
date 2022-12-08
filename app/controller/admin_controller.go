@@ -1,12 +1,12 @@
 package controller
 
 import (
-	"golang-api-boilerplate/app/middleware"
-	"golang-api-boilerplate/app/model"
-	"golang-api-boilerplate/app/repository"
-	"golang-api-boilerplate/app/service"
-	"golang-api-boilerplate/exception"
-	"golang-api-boilerplate/utils"
+	"wellpict-be/app/middleware"
+	"wellpict-be/app/model"
+	"wellpict-be/app/repository"
+	"wellpict-be/app/service"
+	"wellpict-be/exception"
+	"wellpict-be/utils"
 
 	"github.com/go-gomail/gomail"
 	"github.com/gofiber/fiber/v2"

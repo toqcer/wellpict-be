@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"golang-api-boilerplate/exception"
 	"os"
+	"wellpict-be/exception"
 
 	"github.com/gofiber/fiber/v2"
 

@@ -2,12 +2,12 @@ package db
 
 import (
 	"fmt"
-	"golang-api-boilerplate/config"
-	"golang-api-boilerplate/exception"
 	"log"
 	"os"
 	"strings"
 	"time"
+	"wellpict-be/config"
+	"wellpict-be/exception"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

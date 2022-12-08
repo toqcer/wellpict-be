@@ -1,7 +1,7 @@
 package migrations
 
 import (
-	"golang-api-boilerplate/app/entity"
+	"wellpict-be/app/entity"
 
 	"github.com/go-gormigrate/gormigrate/v2"
 	"gorm.io/gorm"

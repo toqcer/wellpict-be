@@ -1,7 +1,7 @@
 package db
 
 import (
-	"golang-api-boilerplate/db/migrations"
+	"wellpict-be/db/migrations"
 
 	"github.com/go-gormigrate/gormigrate/v2"
 )

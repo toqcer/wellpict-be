@@ -1,11 +1,11 @@
 package utils
 
 import (
-	"golang-api-boilerplate/app/model"
-	"golang-api-boilerplate/exception"
 	"os"
 	"strings"
 	"time"
+	"wellpict-be/app/model"
+	"wellpict-be/exception"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt"

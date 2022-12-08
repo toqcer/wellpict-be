@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"golang-api-boilerplate/app/entity"
-	"golang-api-boilerplate/exception"
+	"wellpict-be/app/entity"
+	"wellpict-be/exception"
 
 	"gorm.io/gorm"
 )

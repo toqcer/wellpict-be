@@ -1,6 +1,6 @@
-module golang-api-boilerplate
+module wellpict-be
 
-go 1.18
+go 1.19
 
 require (
 	github.com/go-gormigrate/gormigrate/v2 v2.0.0

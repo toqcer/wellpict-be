@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"golang-api-boilerplate/config"
+	"wellpict-be/config"
 
 	"github.com/go-gomail/gomail"
 )

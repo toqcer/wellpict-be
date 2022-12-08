@@ -1,7 +1,7 @@
 package config
 
 import (
-	"golang-api-boilerplate/exception"
+	"wellpict-be/exception"
 
 	"github.com/gofiber/fiber/v2"
 )

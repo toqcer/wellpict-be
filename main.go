@@ -1,12 +1,12 @@
 package main
 
 import (
-	"golang-api-boilerplate/config"
-	"golang-api-boilerplate/db"
-	"golang-api-boilerplate/initialize"
-	"golang-api-boilerplate/utils"
+	"wellpict-be/config"
+	"wellpict-be/db"
+	"wellpict-be/initialize"
+	"wellpict-be/utils"
 
-	_ "golang-api-boilerplate/docs"
+	_ "wellpict-be/docs"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/recover"

@@ -1,11 +1,11 @@
 package utils
 
 import (
-	"golang-api-boilerplate/app/model"
-	"golang-api-boilerplate/exception"
 	"os"
 	"strconv"
 	"time"
+	"wellpict-be/app/model"
+	"wellpict-be/exception"
 
 	"github.com/golang-jwt/jwt"
 )

@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"golang-api-boilerplate/config"
-	"golang-api-boilerplate/db"
 	"os"
+	"wellpict-be/config"
+	"wellpict-be/db"
 
 	"github.com/go-gormigrate/gormigrate/v2"
 )

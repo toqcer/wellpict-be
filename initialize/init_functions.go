@@ -1,7 +1,7 @@
 package initialize
 
 import (
-	"golang-api-boilerplate/app/controller"
+	"wellpict-be/app/controller"
 )
 
 var InitFunctions = []InitFunc{

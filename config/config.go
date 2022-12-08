@@ -1,8 +1,8 @@
 package config
 
 import (
-	"golang-api-boilerplate/exception"
 	"os"
+	"wellpict-be/exception"
 
 	"github.com/joho/godotenv"
 )
